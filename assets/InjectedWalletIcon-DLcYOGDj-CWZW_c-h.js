@@ -1,0 +1,1 @@
+import{j as s,i as o}from"./vendor-react-DwYkqiWc.js";const r=({icon:t,name:e})=>typeof t=="string"?s.jsx("img",{alt:`${e||"wallet"} logo`,src:t,style:{height:24,width:24,borderRadius:4}}):t===void 0?s.jsx(o,{style:{height:24,width:24}}):t?s.jsx(t,{style:{height:24,width:24}}):null;export{r as i};
